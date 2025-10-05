@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon" href="favicon.ico" sizes="16x16"/>
+    <link rel="icon" href="favicon.ico" sizes="24x24"/>
+    <link rel="icon" href="favicon.ico" sizes="32x32"/>
+    <link rel="icon" href="favicon.ico" sizes="48x48"/>
+    <link rel="icon" href="favicon.ico" sizes="64x64"/>
+<meta http-equiv="Content-Type" content="text/html; iso-8859-1">
+<!-- <meta http-equiv="refresh" content="15; URL="javascript:history.go(0);" /> -->
+<title>Gamescape On The Web</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+
+<script>
+// Access the parent iframe that contains the entire site
+const parentIframe = parent.document.getElementById('myIframe'); // Replace 'myIframe' with the iframe's ID
+
+if (parentIframe) {
+  // Access the content of the iframe
+  const iframeContent = parentIframe.contentWindow;
+
+  // Access the "home" frame within the iframe's frameset
+  const homeFrame = iframeContent.frames['home']; // Replace 'home' with the actual name of the frame
+
+  if (homeFrame) {
+    // Example: Change the content of the "home" frame
+    homeFrame.document.body.innerHTML = '<h1>Welcome to the Home Frame!</h1>';
+    console.log('Successfully accessed the "home" frame.');
+  } else {
+    console.error('Home frame not found.');
+  }
+} else {
+  console.error('Parent iframe not found.');
+}
+</script>
+
+</head>
+<frameset cols="115,*" framespacing="0" frameborder="no"
+border="0">
+    <frameset rows="155,*" framespacing="0" frameborder="no"
+    border="0">
+        <frame src="index_static.htm" name="static"
+        scrolling="no" noresize framespacing="0" frameborder="no"
+        border="0">
+        <frame src="index_nav_iconcode.htm" name="icons" noresize
+        framespacing="0" frameborder="no" border="0">
+    </frameset>
+    <frame src="home.htm" name="main" noresize framespacing="0"
+    frameborder="no" border="0">
+    <noframes>
+    <body stylesrc="noframes/noframes.htm" bgcolor="#FFFFFF">
+    <!--webbot bot="Include" tag="BODY"
+    u-include="noframes/noframes.htm" startspan --><p>This page
+    has frames but your browser doesn't support them. <a
+    href="home.htm">Click here instead</a>.</p>
+    <p>&nbsp;</p>
+    <!--webbot bot="Include" endspan i-checksum="7216" -->
+    </body>
+    </noframes>
+</frameset>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Gamelist #</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body bgcolor="#000000" text="#C0C0C0" link="#00FF00"
+vlink="#00FF00" alink="#000000">
+<!--webbot bot="GeneratedScript" preview=" " startspan --><script
+language="JavaScript"><!--
+function FrontPage_Form1_Validator(theForm)
+{
+
+  var radioSelected = false;
+  for (i = 0;  i < theForm.GAME.length;  i++)
+  {
+    if (theForm.GAME[i].checked)
+        radioSelected = true;
+  }
+  if (!radioSelected)
+  {
+    alert("Please select one of the \"Price\" options.");
+    return (false);
+  }
+  return (true);
+}
+//--></script><!--webbot bot="GeneratedScript" endspan -->
+<form
+action="http://gs.cybermagic.co.nz/ordering/standard/game-choice.asp"
+method="GET" onsubmit="return FrontPage_Form1_Validator(this)"
+name="FrontPage_Form1">
+    <table border="0" width="100%">
+        <tr>
+            <td bgcolor="#800000"><blockquote>
+                <blockquote>
+                    <p><font size="3" face="Arial"><strong>11th
+                    Hour - DOS</strong></font><font
+                    color="#FF0000" size="3" face="Arial"><br>
+                    </font><!--webbot bot="Validation"
+                    s-display-name="Price"
+                    b-value-required="TRUE" --><input
+                    type="radio" name="GAME"
+                    value="$65.00NZ 11th Hour - DOS"> <input
+                    type="submit" name="B12" value="Order"> <font
+                    color="#FF0000" size="4" face="Arial">$65.00</font><font
+                    color="#FF0000" size="2" face="Arial">NZ</font><font
+                    color="#FF0000" size="4" face="Arial"> - New
+                    Zealand</font></p>
+                </blockquote>
+            </blockquote>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+    <table border="0" width="100%">
+        <tr>
+            <td bgcolor="#800000"><blockquote>
+                <blockquote>
+                    <p><font size="3" face="Arial"><strong>3D
+                    Virtual Pool - Windows 95</strong><br>
+                    </font><input type="radio" name="GAME"
+                    value="$99.00NZ 3D Virtual Pool - Windows 95">
+                    <input type="submit" name="B2" value="Order">
+                    <font color="#FF0000" size="4" face="Arial">$99.00</font><font
+                    color="#FF0000" size="2" face="Arial">NZ</font><font
+                    color="#FF0000" size="4" face="Arial"> New
+                    Zealand</font></p>
+                </blockquote>
+            </blockquote>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+</form>
+</body>
+</html>

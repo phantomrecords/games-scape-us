@@ -1,0 +1,266 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Toolbar</title>
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+</head>
+
+<body bgcolor="#000000" text="#C0C0C0" link="#808080"
+vlink="#808080" alink="#008000"
+onload="document.navchooser.chooser.focus()">
+<font face="Arial"><script language="JavaScript"><!--
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion); 
+	if (bName == "Netscape" && bVer >= 3) ver = "n3";
+         	else if (bName == "Netscape" && bVer == 2) ver = "n2";
+		else if (bName == "Microsoft Internet Explorer" && bVer >= 2) ver = "e3";
+
+function openOrder() {
+	orderwin = window.open("orders.htm", "orderpage", "toolbar=no,status=no,scrollbars=auto,resizable=yes,directories=no,menubar=no,width=350,height=425");
+	if (ver == "n2") {
+		if (navigator.appVersion.indexOf("(X11") != -1 || navigator.appVersion.indexOf("(Mac") != -1) {
+			orderwin = window.open("orders.htm", "orderpage")  //mac bug fix
+		}
+	}
+	if (orderwin != null) {
+		if(orderwin.opener == null) {
+			orderwin.opener = self;
+			orderwin.location = "orders.htm";
+		}
+	}
+}
+
+function swriter(txt) {
+	if (ver == "n3") {
+		window.opener.status = txt;
+	}
+	else {
+		window.opener.status = txt;
+		setTimeout("erase()",3000);
+	}
+}
+
+function erase() {
+  window.opener.status="";
+}
+
+function linker(txt) {
+	window.opener.location=txt;
+}
+
+function leapto(form) {
+        var myindex=form.chooser.selectedIndex
+	if (form.chooser.options[myindex].value == 'orders.htm') {
+		openOrder();
+		}
+	else {
+		window.opener.location = form.chooser.options[myindex].value;
+	}
+}
+
+// --></script></font><div
+align="left">
+
+<table border="0" cellpadding="0" cellspacing="0" width="120">
+    <tr>
+        <td align="center"><font size="2" face="Arial"><select
+        name="chooser" size="1" onchange="leapto(this.form)">
+            <option selected
+            value="javascript:window.history.go(0)">warp to...</option>
+            <option value="aeon_pr.htm">Æon Flux!</option>
+            <option value="c&amp;c_pr.htm">C &amp; C</option>
+            <option value="badmojo_mv.htm">Bad Mojo</option>
+            <option value="dforces_pr.htm">DarkForces</option>
+            <option value="deathdrm.htm">DeathDrome</option>
+            <option value="diablo_pr.htm">Diablo</option>
+            <option value="duke3d_pr.htm">DukeNukem</option>
+            <option value="MDK_pr.htm">MDK</option>
+            <option value="sphlk2_rev.htm">SpaceHulk 2</option>
+            <option value="terminat_pr.htm">Terminator</option>
+            <option value="topgun_pr.htm">Top Gun</option>
+            <option value="stg_pr.htm">Trek Genrtns</option>
+            <option value="st_finalunity_pr.htm">Trek Unity</option>
+            <option value="wc4_rev-PCG.htm">WingCmdr 4</option>
+            <option value="javascript:window.history.go(0)">-------------</option>
+            <option value="gamelist.htm">Game List...</option>
+            <option value="javascript:openOrder()">Order Form</option>
+        </select></font><p><font size="2" face="Arial"><input
+        type="button" name="B1" value="Let's Go!"
+        onclick="leapto(this.form)"></font></p>
+        <p>&nbsp;</p>
+        <p><select name="chooser" size="1"
+        onchange="leapto(this.form)">
+            <option>go to... </option>
+            <option value="welcome.htm">home </option>
+            <option value="descriptions.htm">reviews </option>
+            <option value="downloads.htm">downloads </option>
+            <option value="testdrives.htm">test drives </option>
+            <option value="descriptions.htm">descriptions </option>
+            <option value="orders.htm">order </option>
+        </select><br>
+        <input type="button" name="B1" value="Go!"
+        onclick="leapto(this.form)"></p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><a
+        href="javascript:linker('home.htm')"><font
+        color="#FFFFFF" size="1" face="Arial"><img
+        src="../images/house_navtoolbar.gif" border="0"
+        hspace="10" vspace="10" width="50" height="50"></font></a><a
+        href="javascript:window.history.go(0)"><font
+        color="#FFFFFF" size="1" face="Arial"><br>
+        </font></a><font color="#FFFFFF" size="1" face="Arial">Home</font><p><font
+        color="#FFFFFF" size="1" face="Arial"><img
+        src="../images/badmojo.gif" width="85" height="63"><br>
+        Bad Mojo</font></p>
+        <p><font color="#FFFFFF" size="1" face="Arial"><img
+        src="../images/commandlg.gif" width="86" height="86"><br>
+        Command and Conquer</font></p>
+        <p><a href="http://localhost/swars.htm"><font
+        color="#FFFFFF" size="1" face="Arial"><img
+        src="../images/syndlogo.gif" border="0" hspace="14"
+        vspace="14" width="56" height="56"></font></a><a
+        href="http://localhost/swars.htm"><font color="#FFFFFF"
+        size="1" face="Arial"><br>
+        </font></a><font color="#FFFFFF" size="1" face="Arial">Syndicate
+        Wars</font></p>
+        <p><font color="#FFFFFF" size="1" face="Arial"><img
+        src="../images/term-head2.gif" hspace="10" vspace="10"
+        width="58" height="63"><br>
+        Terminator<br>
+        Future Shock</font></p>
+        <p><font color="#FFFFFF" size="1" face="Arial"><img
+        src="../images/unreal_big.jpg" hspace="10" vspace="14"
+        width="74" height="46"><br>
+        Unreal</font></p>
+        </td>
+    </tr>
+</table>
+</div><div align="left">
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center" valign="top" colspan="3"><form
+        name="navchooser">
+            <p>&nbsp;</p>
+        </form>
+        &nbsp; </td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:window.history.go(0)"><font size="2"
+        face="Arial"><img src="../images/house_navtoolbar.gif"
+        border="0" width="50" height="50"></font></a><font
+        size="2" face="Arial"> </font></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:linker('index.html')"><font size="1"
+        face="Arial"><img src="../images/openingpage.gif"
+        align="baseline" border="0" width="92" height="22"
+        onclick="leapto(this.form)"></font></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:linker('whatsnew.htm')"><font size="2"
+        face="Arial"><img src="../images/whatsnew.gif" border="0"
+        width="92" height="22"></font></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:linker('home.htm')"><font size="2"
+        face="Arial"><img src="../images/home.gif" border="0"
+        width="92" height="22"
+        onclick="javascript:window.history.go(0)"></font></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:linker('descriptions.htm')"><font
+        size="2" face="Arial"><img
+        src="../images/descriptions.gif" border="0" width="92"
+        height="22"></font></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:linker('reviews.htm')"><font size="2"
+        face="Arial"><img src="../images/reviews.gif" border="0"
+        width="92" height="22"></font></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:linker('downloads.htm')"><font size="2"
+        face="Arial"><img src="../images/downloads.gif"
+        border="0" width="92" height="22"></font></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:linker('class-addentry.htm')"><font
+        size="2" face="Arial"><img
+        src="../images/classifieds.gif" border="0" width="92"
+        height="22"></font></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:openOrder()"><font size="2" face="Arial"><img
+        src="../images/orders.gif" border="0" width="92"
+        height="22"></font></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:linker('search.htm')"><font size="2"
+        face="Arial"><img src="../images/search.gif" border="0"
+        width="92" height="22"></font></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><a
+        href="javascript:linker('javascript:window.history.go(-1)')"><font
+        color="#000000" size="2" face="Arial"><img
+        src="../images/navbar_sm3a.gif" border="0" width="20"
+        height="22"></font></a><font color="#000000" size="2"
+        face="Arial"><img src="../images/spacer3.gif" width="16"
+        height="15"></font><a
+        href="javascript:linker('javascript:window.history.go(1)')"><font
+        color="#000000" size="2" face="Arial"><img
+        src="../images/arrow2.gif" border="0" width="20"
+        height="22"></font></a><font color="#000000" size="2"
+        face="Arial"><img src="../images/spacer3.gif" width="3"
+        height="15"></font></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="3"><font
+        size="1" face="Arial"><img src="../images/badmojo.gif"
+        width="85" height="63"><br>
+        Bad Mojo</font><p><font size="1" face="Arial"><img
+        src="../images/commandlg.gif" width="86" height="86"><br>
+        Command and Conquer</font></p>
+        <p><a href="../swars.htm"><font size="1" face="Arial"><img
+        src="../images/syndlogo.gif" border="0" hspace="14"
+        vspace="14" width="56" height="56"></font></a><a
+        href="http://localhost/swars.htm"><font size="1"
+        face="Arial"><br>
+        </font></a><font size="1" face="Arial">Syndicate Wars</font></p>
+        <p><font size="1" face="Arial"><img
+        src="../images/term-head2.gif" hspace="10" vspace="10"
+        width="58" height="63"><br>
+        Terminator<br>
+        Future Shock</font></p>
+        <p><font size="1" face="Arial"><img
+        src="../images/unreal_big.jpg" hspace="10" vspace="14"
+        width="74" height="46"><br>
+        Unreal</font></p>
+        </td>
+    </tr>
+</table>
+</div>
+
+<p><font face="Arial"><!--webbot bot="HTMLMarkup" startspan --><embed src="media/objectives.wav" hidden="true">
+<BGSOUND SRC="media/objectives.wav"><!--webbot
+bot="HTMLMarkup" endspan --></font></p>
+</body>
+</html>

@@ -1,0 +1,204 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="FORMATTER" content="Microsoft FrontPage 2.0">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Prepare for Transport...</title>
+</head>
+
+<body bgcolor="#000000" text="#808080" link="#808080"
+vlink="#808080" alink="#FFFF00" onload="openNav()">
+
+<p><script language="JavaScript"><!--
+
+
+
+
+
+bName = navigator.appName;
+
+
+bVer = parseInt(navigator.appVersion); 
+
+
+	if (bName == "Netscape" && bVer >= 3) ver = "n3";
+
+
+         	else if (bName == "Netscape" && bVer == 2) ver = "n2";
+
+
+		else if (bName == "Microsoft Internet Explorer" && bVer >= 2) ver = "e3";
+
+
+
+
+
+function openNav() {
+
+
+	navwin = window.open("navtoolbar.htm", "navbar", "toolbar=no,status=no,scrollbars=no,resizable=yes,directories=no,menubar=no,width=130,height=390");
+
+
+	if (ver == "n2") {
+
+
+		if (navigator.appVersion.indexOf("(X11") != -1 || navigator.appVersion.indexOf("(Mac") != -1) {
+
+
+			orderwin = window.open("navtoolbar.htm", "navbar")  //mac bug fix
+
+
+		}
+
+
+	}
+
+
+	if (navwin != null) {
+
+
+		if(navwin.opener == null) {
+
+
+			navwin.opener = self;
+
+
+			navwin.location = "navtoolbar.htm";
+
+
+		}
+
+
+	}
+
+
+}
+
+
+
+
+
+function openOrder() {
+
+
+	orderwin = window.open("orders.htm", "orderpage", "toolbar=no,status=no,scrollbars=auto,resizable=yes,directories=no,menubar=no,width=350,height=425");
+
+
+	if (ver == "n2") {
+
+
+		if (navigator.appVersion.indexOf("(X11") != -1 || navigator.appVersion.indexOf("(Mac") != -1) {
+
+
+			orderwin = window.open("orders.htm", "orderpage")  //mac bug fix
+
+
+			}
+
+
+	}
+
+
+	if (orderwin != null) {
+
+
+		if(orderwin.opener == null) {
+
+
+			orderwin.opener = self;
+
+
+			orderwin.location = "orders.htm";
+
+
+		}
+
+
+	}
+
+
+}
+
+
+
+
+
+
+
+
+function swriter(txt) {
+
+
+	if (ver == "n3") {
+
+
+		window.status = txt;
+
+
+	}
+
+
+	else {
+
+
+		window.status = txt;
+
+
+		setTimeout("erase()",3000);
+
+
+	}
+
+
+}
+
+
+
+
+
+function erase() {
+
+
+  window.status="";
+
+
+}
+
+
+
+
+
+
+
+
+// --></script></p>
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top"><a href="../home.htm"><img
+        src="../images/logo_sm.gif" border="0" width="111"
+        height="128"></a><p><font color="#000000" size="6"
+        face="Arial">....</font><a href="../home.htm"><font
+        color="#808080" size="6" face="Arial">Prepare for
+        Transport</font></a><font color="#808080" size="6"
+        face="Arial">...</font></p>
+        <p><font color="#808080" size="6" face="Arial">[this site
+        is under construction]</font></p>
+        </td>
+    </tr>
+</table>
+</center></div>
+</body>
+</html>

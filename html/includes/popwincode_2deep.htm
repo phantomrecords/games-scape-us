@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Popup Window Java Script (From 2 Subdirectories Down)</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<p><script language="JavaScript"><!--
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion); 
+	if (bName == "Netscape" && bVer >= 3) ver = "n3";
+         	else if (bName == "Netscape" && bVer == 2) ver = "n2";
+		else if (bName == "Microsoft Internet Explorer" && bVer >= 2) ver = "e3";
+
+function openOrder() {
+	window.location="../../orders_proc_method.htm";
+}
+
+
+function openTeleporter(txt) {
+	{window.open.location=txt;
+	}
+	teleportwin = window.open(window.open.location, "teleporter", "toolbar=no,status=yes,scrollbars=yes,resizable=yes,directories=no,menubar=no,width=700,height=500");
+	if (ver == "n2") {
+		if (navigator.appVersion.indexOf("(X11") != -1 || navigator.appVersion.indexOf("(Mac") != -1) {
+			teleportwin = window.open(window.open.loaction, "teleporter")  //mac bug fix
+		}
+	}
+	if (teleportwin != null) {
+		if(teleportwin.opener == null) {
+			teleportwin.opener = self;
+			teleportwin.location = window.open.location;
+		}
+	}
+}
+
+function leapto(txt) {
+	{window.location=txt;
+	}
+}
+
+
+function openBackground(txt) {
+	{window.open.location=txt;
+	}
+	bwin = window.open(window.open.location, "background", "toolbar=no,status=yes,scrollbars=no,resizable=no,directories=no,menubar=no,width=510,height=75");
+	if (ver == "n2") {
+		if (navigator.appVersion.indexOf("(X11") != -1 || navigator.appVersion.indexOf("(Mac") != -1) {
+			bwin = window.open(window.open.location, "background")  //mac bug fix
+		}
+	}
+	if (bwin != null) {
+		if(bwin.opener == null) {
+			bwin.opener = self;
+			bwin.location = window.open.location;
+		}
+	}
+}
+// --></script></p>
+</body>
+</html>

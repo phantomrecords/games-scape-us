@@ -1,0 +1,275 @@
+Title			Catagory	Developer / Publisher	Product 	March
+					Number	Selling Price
+						
+	PC Games					
+						
+1		11th Hour	puzzle suspense	Triobyte	11T00CDI	 $69.00 
+2		3D Virtual Pool	arcade		3DP00CDI	 $105.00 
+3		Advanced Tactical Fighters (ATF)	air combat flight sim	Jane's Combat	507338	 $95.00 
+4		AH-64D Longbow	helo combat flight sim	Jane's Combat	5010067	 $95.00 
+5		Alien Trilogy	first person shooter	Acclaim	CD0094	 $99.00 
+6		Alone in the Dark Trilogy	isometric adventure		ALO01CDI	 $99.00 
+7		Archimedian Dynasty		Blue Byte	596111	 $119.00 
+8		Area 51			CD20686	 $99.00 
+9		Armoured Fist 2.0	tank sim	Nova Logic	509209	 $95.00 
+10		Babylon 5 - Entertainment Utility			8140108	 $79.00 
+11		Bad Mojo	become a 'roach	Pulse Entertainment		 coming soon 
+12		Bedlam	srategy action conquest sim	GT Interactive	CD20687	 $99.00 
+13		Betrayal at Antara	fantasy adventure	Sierra	596156	 $115.00 
+14		Birth Right	Dungeon and Dragons	Sierra	596160	 $115.00 
+15		Blue Ice 		Psygnosis	500150	 $109.00 
+16		Broken Sword	animated interactive walk through	Revolution	BRO00CDI	 $99.00 
+17		Caesars II	Roman conquest & civiliation sim	Sierra	596336	 $115.00 
+18		Civilisation	civilisation sim	Microprose	CIV02CDI	 $29.00 
+19		Civilisation II	civilisation sim - updated remake\sequel	Microprose	CIV01CDI	 $79.00 
+20		Civilisation II Collectors	civilisation sim	Microprose	CIV03CDI	 $119.00 
+21		"Civilisation II Scenario Disk - ""Conflicts in Civilisation"""	add-on with 20 new scenarios	Microprose	CIVO4CDI	 $45.00 
+22		Comanche 3.0	helo combat flight sim	Nova Logic	500139	 $95.00 
+23		Command & Conquer	srategy action conquest sim	Westwood	COM05CDI	 $85.00 
+24		Command & Conquer Collection	"featuring C&C, Dune 2, music CD"	Westwood	COM08CDI	 $109.00 
+25		Command & Conquer Covert Operations	add-on with 15 new missions		RED02CDI	 $35.00 
+26		Command & Conquer Gold Edition for Win '95	"Net play, improved graphics, screen savers etc"	Westwood		 April '97 
+27		Command & Conquer Red Alert	srategy action conquest sim	Westwood	RED02CDI	 $119.00 
+28		Creature Shock	fully rendered first person walk through	Argonaut Software	CRE00CDI	 $85.00 
+29		Creatures	life simulator	Warner Interactive	CRE02CDI	 $85.00 
+30		Cricket '97	sports sim	EA. Sport	500144	 $95.00 
+31		"Crusader ""No Regret"""	isometric shooter adventure	Origin	5010135	 $95.00 
+32		"Crusader ""No Remorse"""	isometric shooter adventure	Origin	I1197	 $55.00 
+33		"Cyberia 2 - ""Resurrection"""	arcade plus rendered cut scenes	Xatrix Entertainment	CYB02CDI	 $124.00 
+34		D				  coming soon 
+35		Daggerfall: The Elder Scrolls	first person fantasy adventure	Bethesda Softworks	DAG01CDI	 $115.00 
+36		Dark Forces	first person shooter (Doom clone)	Lucas Arts	597461	 $95.00 
+37		Deadlock	planetary conquest sim	Accolade	DEA01CDI	 $99.00 
+38		Deadly Tide	submarine combat sim	Microsoft	MST7974	 $95.00 
+39		Defcon 5			CD20647	 $65.00 
+40		Destruction Derby	car demolition \ racing sports sim		500162	 $65.00 
+41		Diablo	isometric fantasy adventure	Blizzard	2859088	 $105.00 
+42		Die Hard Trilogy	arcade action	Fox Interactive	500118	 $95.00 
+43		Dinotopia	"based on Childrens Book ""Dinotopia"""		CD20596	 $89.00 
+44		Doom II Screen Saver	screen saver	ID Software	CD20377	 $55.00 
+45		Duke Nukem 3D	first person shooter	3D Realms & Appogee		 $95.00 
+46		Duke Nukem 3D Plutonium Pak	add-on	3D Realms & Appogee	CD20728	 $55.00 
+47		Dungeon Keeper	reversed dungeon conquest	Bullfrog	507624	 $95.00 
+48		Ecstatica			500159	 $65.00 
+49		Ecstatica 2		Psygnosis	500154	 $109.00 
+50		EF 2000 Evolution + Tactcom	air combat flight sim	Ocean \ DID	CD0299	 $95.00 
+51		EF 2000 Super 	air combat flight sim	Ocean \ DID	CD0296	 $95.00 
+52		F22 Lightening	air combat flight sim	Nova Logic	500136	 $95.00 
+53		Fade to Black			I1327	 $29.00 
+54		Fire Fight Win '95 Native	arcade isometric shooter action flyer		507691	 $95.00 
+55		Flight Simulator 6.0 Win '95	flight sim	Microsoft	MST9020	 $95.00 
+56		Flight Simulator Scenery 1.00 MS-Dos	"Carribean, Hawaii & Japan"	Microsoft	MST9015	 $40.00 
+57		Flight Unlimited Win '95 Native	flight sim		500143	 $95.00 
+58		Flying Corps	WW I aerial combat flight sim	Empire		 $124.00 
+59		Formula 1	car racing sports sim		500153	 $109.00 
+60		Gabriel Knight 2	mystery suspense	Sierra	596202	 $124.00 
+61		Gene Wars	arcade action	Bullfrog	507595	 $95.00 
+62		Goosebumps 1.0 Win '95		Microsoft	MST7822	 $95.00 
+63		HellBender Win '95		Microsoft	MST796	 $95.00 
+64		Heretic !  Shadow Serpent	first person action shooter (Doom clone)		CD20534	 $119.00 
+65		Hexen	first person action shooter (Doom clone)	Ravensoft	CD20436	 $79.00 
+66		Hexen: Death of Kings	first person action shooter (Doom clone)	Ravensoft	CD20538	 $79.00 
+67		Hoyle: Casino Collection	card & board	Sierra	596305	 $95.00 
+69		Independence Day	aerial combat flight sim	Fox Interactive		 April '97 
+70		Indianapolis 500	sports sim		CD00255	 $35.00 
+71		Indy Car Racing 2		Papyrus	IND03CDI	 $79.00 
+72		Jedi Knight (Dark Forces II)	first person shooter (Doom clone)	Lucas Arts	596382	 $119.00 
+73		Krazy Ivan			500152	 $109.00 
+74		Krush Kill 'N' Destroy (KK'N'D)	strategy sim	Melbourne House	500138	 $95.00 
+75		Legends of Kyrandia	fantasy adventure		CD00269	 $35.00 
+76		Leisure Suit Larry 7	arcade humour	Sierra	596157	 $115.00 
+77		Leisure Suit Larry Collection 	"featuring Leisure Suit Larry 1,2,3,4,5 & 6"	Sierra	596281	 $85.00 
+78		LHX Attack Chopper	helo combat flight sim		CD0270	 $35.00 
+79		Lighthouse	Myst-alike	Sierra	596132	 $115.00 
+80		Lode Runner (Network)	classic arcade 	Sierra	596201	 $89.00 
+81		LucasArts Archives 2: Star Wars Collection	"Rebel Assault 1 & 2, Tie Fighter, Dark Forces"	Lucas Arts	596384	 $119.00 
+82		Madden NFL '97	sports sim	EA. Sport	507727	 $95.00 
+83		Magic Carpet 2	flying game		MAG05CDI	 $65.00 
+84		Monopoly	board game		2440101	 $85.00 
+85		Monty Python & the Quest for the Holy Grail	humour	7th Level	8447107	 $119.00 
+86		Mortal Combat III	arcade fighting	Williams	CD20537	 $99.00 
+87		Myst with strategy guide	mystery suspense		1050721	 $105.00 
+88		NBA Live '97	sports sim	EA. Sport	507732	 $95.00 
+89		Need for Speed 2	car racing sports sim			 April '97 
+90		Outpost 2	space colonisation \ planetary conquest sim	Sierra	596149	 $115.00 
+91		Pandora Directive	adventure suspense		PAN01CDI	 $115.00 
+92		Perfect Assassin		Grolier Interactive		 coming soon 
+93		"Phantasmagoria 2 - ""A Puzzle of Flesh"""	adventure mystery horror	Sierra	596335	 $119.00 
+94		Primal Rage	arcade fighting	Time Warner	PRI05CDI	 $79.00 
+95		Privateer	space commerce & adventure	Origin	IC1241	 $29.00 
+96		"Privateer 2 - ""The Darkening"""	space commerce & adventure with cut scenes	Origin	5010134	 $95.00 
+97		Quake	first person shooter (Doom clone)	ID Software	CD20548	 $99.00 
+98		Rama		Sierra	596048	 $115.00 
+99		Rebel Assault 2	arcade shooter with cut scenes	Lucas Arts		 $95.00 
+100		Risk	board game		2440109	 $85.00 
+101		Road Rash Win '95 Native	arcade	EA.	507647	 $95.00 
+102		Robotron X	updated arcade		CD20691	 $95.00 
+103		Settlers II	colonisation sim	Blue Byte	596118	 $115.00 
+104		Shiver  Win			596225	 $79.00 
+105		Sim Copter Win '95 Native	helo flight sim		500146	 $115.00 
+106		Simpsons Screen Saver	screen saver	Fox Interactive	A964118	 $69.00 
+107		SkyNet	first person shooter (precision Doom clone)	Bethesda Softworks		 $115.00 
+108		Soviet Strike	helo combat action strategy 	EA.		 coming soon 
+109		"Space Hulk 2 - ""Vengence of the Blood Angels"""	first person team based shooter	EA.	507539	 $95.00 
+110		Space Quest 6		Sierra	596212	 $65.00 
+111		Space Quest Collection	"Space Quest 1,2,3,4 and 5"	Sierra	596210	 $85.00 
+112		Space Simulator	space sim	Microsoft	MST9101	 $95.00 
+113		SPQR	Roman mystery puzzler	GT Interactive	CD20732	 $99.00 
+114		Spycraft		Activision		 coming soon 
+115		Star Control 3			STA07CDI	 $99.00 
+116		Star Trek Next Generation Audio Clips	sound fx		CD00056	 $40.00 
+117		Star Trek Next Generation Screen Saver	screen saver		A951125	 $69.00 
+118		Star Trek Omnipedia			7840162	 $95.00 
+119		Star Trek Original Audio Clips	sound fx		CD00054	 $40.00 
+120		Star Trek Screen Saver	screen saver		A951125	 $69.00 
+121		"Star Trek The Next Generation ""A Final Unity"""	isometric mystery adventure		STA00CDI	 $85.00 
+122		Star Wars Trilogy - Entertainment Utility	multimedia clips & fx for PC		CD00084	 $69.00 
+123		Stone Keep				 coming soon 
+124		Syndicate Wars	isometric conquest \ strategy action	Bullfrog	507682	 $95.00 
+125		T2 Audio Clips	sound fx		CD00057	 $40.00 	
+126		T2 Screen Saver	sound fx		CD00060	 $40.00 	
+127		Tales of Atlantis				 coming soon 	
+128		Terminator Future Shock	first person shooter (precision Doom clone)	Bethesda Softworks	TER01CDI	 $85.00 	
+129		TFX	aerial combat flight sim	Ocean \ DID	CD00271	 $35.00 	
+130		TFX EF 2000	aerial combat flight sim	Ocean \ DID	TFX02CDI	 $79.00 	
+131		The Neverhood		Dream Works\ MS	MST7820	 $95.00 	
+132		Theme Hospital		Bullfrog	507626	 $95.00 	
+133		Tie Fighter (enhanced)	arcade shooter with cut scenes	Lucas Arts	596093	 $95.00 	
+134		Time Lapse	adventure puzzler	Philips Media		 $99.00 	
+135		Titanic	adventure puzzler	GTE Entertainment		 coming soon 	
+136		Tomb Raider		EIDOS \ Core Design	TOM00CDI	 $115.00 	
+137		"Top Gun - ""Fire at Will"""	aerial combat flight sim with cut scenes	Spectrum Holobyte	TOP01CDI	 $124.00 	
+138		Under a Killing Moon	adventure suspense		UND01IBM	 $69.00 	
+139		Unreal		Epic		 coming soon 	
+140		Virtual Fighter PC	aerial combat flight sim	Sega	VIR04CDI	 $85.00 	
+141		Warcraft Battle Chest 	"includes Warcraft I, II & expansion set"	Blizzard	2836250	 $145.00 	
+142		"Warcraft II ""Beyond the Dark Portal"" Expansion Set"	add-on	Blizzard	2830089	 $69.00 	
+143		"Warcraft II ""Tides of Darkness"""	strategy sim	Blizzard	2830088	 $105.00 	
+144		Werewolf Vs Comanche 2.0	helo combat flight sim	Nova Logic	I1331	 $95.00 	
+145		Wing Commander IV Win '95	space commerce & adventure with cut scenes	Origin	5010099	 $95.00 	
+146		Wing Commander Trilogy - The Kilrathi Saga	space commerce & adventure with cut scenes	Origin	505651	 $55.00 	
+147		X Wing Classic	space fighter combat sim	Lucas Arts	XWI00IBM	 $55.00 	
+148		X Wing Gold Collectors	"Enhanced X-wing, Imperial Pursuit, B-Wing"	Lucas Arts	596020	 $85.00 	
+149		X Wing Vs Tie Fighter		Lucas Arts	596381	 $119.00 	
+150		Xenophage		GT Interactive	CD20757	 $65.00 	
+151		Z	srategy action conquest sim	Bitmap Bros	ZZZ00CDI	 $105.00 	
+152		Zork Nemisis	Myst-alike			 coming soon 	
+153							
+154							
+155							
+156							
+157							
+158							
+159							
+160							
+161							
+162							
+163							
+164							
+165							
+166							
+167							
+168							
+169							
+170							
+							
+							
+	Sony PlayStation						
+							
+1		Alien Trilogy	first person shooter	Acclaim	AOO89	 $119.00 	
+2		Andretti Racing	car racing sports sim	EA. Sport	547439	 $105.00 	
+3		Batman Forever	3D fighting	Acclaim	AO147	 $119.00 	
+4		Battle Arena Toshinden			22321	 $105.00 	
+5		Battlestations			547639	 $105.00 	
+6		Bedlam	srategy action sim	GT Interactive		 coming soon 	
+7		Birth Right	Dundeons and Dragons	Sierra	595103	 $115.00 	
+8		Broken Sword	third person animated interactive walk through	Revolution	28323	 $95.00 	
+9		Command & Conquer	srategy action conquest sim	Westwood	80975	 $105.00 	
+10		"Crusader ""No Remorse"""	isometric shooter adventure	Origin	5410131	 $105.00 	
+11		Cyber Gladiators	arcade	Sierra	595100	 $115.00 	
+12		Cyberia	arcade plus rendered cut scenes	Xatrix Entertainment	A20598	 $119.00 	
+13		D			A0076	 $119.00 	
+14		Dark Forces	first person shooter (Doom clone)	Lucas Arts	595108	 $119.00 	
+15		Descent	flyer shooter		A20600	 $119.00 
+16		Destruction Derby	car racing sports sim		10328	 $105.00 
+17		Destruction Derby 2	car racing sports sim		31729	 $105.00 
+18		Die Hard Trilogy	arcade action	Fox Interactive	540121	 $105.00 
+19		Fade to Black			547502	 $90.00 
+20		Final Doom	first person shooter		517	 $105.00 
+21		Formula 1	car racing sports sim			 $105.00 
+22		Gunship 2000			33322	 $105.00 
+23		"Incredible Hulk ""Pantheon Saga"""				 coming soon 
+24		Independence Day	aerial combat flight sim	Fox Interactive	540184	April '97
+25		Iron Man \ X-O Manowar		Acclaim	AO112	 $119.00 
+26		Madden NFL '97	sports sim	EA. Sport	547725	 $105.00 
+27		Magic Carpet	flying game		547628	 $69.00 
+28		Mortal Combat Trilogy 	arcade fighter		104	 $105.00 
+29		Myst	mystery suspense		17921	 $95.00 
+30		Nascar Racing	car racing sports sim	Sierra	595105	 $115.00 
+31		Need for Speed	car racing sports sim	EA.	547657	 $90.00 
+32		Need for Speed 2	car racing sports sim			 April '97 
+33		NFL Game Day	sports sim		20327	 $105.00 
+34		Rebel Assault 2	Arcade	Lucas Arts	595106	 $119.00 
+35		Road Rash	motor bike racing sports sim	EA.	547594	 $105.00 
+36		Robotron X	updated arcade		1163	 $95.00 
+37		Soviet Strike	helo combat action strategy 	EA.	547585	 $105.00 
+38		"Space Hulk 2 - ""Vengence of the Blood Angels"""	first person team based shooter		547692	 $69.00 
+39		Star Fighter 3000				 coming soon 
+40		Street Fighter: The Movie	Arcade		A0044	 $119.00 
+41		Syndicate Wars	isometric conquest \ strategy action	Bullfrog	547627	 $105.00 
+42		Tekken 2			25926	 $105.00 
+43		Theme Park		Bullfrog	547630	 $69.00 
+44		"Top Gun - ""Fire At Will"""	aerial combat flight sim	Spectrum Holobyte	41327	 $105.00 
+45		Wing Commander III	space commerce & adventure with cut scenes	Origin	5410110	 $69.00 
+46		Wing Commander IV	space commerce & adventure with cut scenes	Origin	5410103	 $105.00 
+47		Wipeout			10427	 $105.00 
+48						
+49						
+50						
+51						
+52						
+53						
+54						
+55						
+56						
+57						
+58						
+59						
+60						
+						
+						
+	Accessories					
+						
+1		"""Y"" Cable"		CH	CH 003	 $32.00 
+2		Flightstick		CH	CH 502 2	 $99.00 
+3		Mic Headset			10 HSM	 $23.00 
+4		MS Sidewinder Analogue		Microsoft	MST798	 $75.00 
+5		MS Sidewinder GamePad		Microsoft	MST7995	 $95.00 
+6		MS Sidewinder Joystick 3D Pro		Microsoft	MST799	 $95.00 
+7		Saitek Megagrip III				 coming soon 
+8		Sony PlayStation Console & Controller		Sony	PSX-Console	 $299.00 
+9		Sony PlayStation Controller		Sony	PSX-HC	 $45.00 
+10		Sony PlayStation Game Card	"runs 2 joysticks, allows speed settings"	CH	CH 053	 $89.00 
+11		Sony PlayStation Memory Card		Sony	PSX-Memory	 $35.00 
+12		Sony PlayStation Pad			DOC 4273	 $35.00 
+13		Sony PlayStation Satchel Bag		Sony	PSX-Satchel	 $45.00 
+14		Sony Playstation Strike Pad		Quick Shot	QS 1500	 $45.00 
+15		Sony PlayStation Wireless Controls			DOC 1301	 $115.00 
+16		Top Gun FCS Joystick			997876	 $105.00 
+17		Vivatar WJ2000				 coming soon 
+18		WingMan	"ergonomic analogue, 2 button joystick"	Logitech	LOG210	 $65.00 
+19		WingMan Extreme	"ergonomic analogue, 5 button joystick"	Logitech	LOG211	 $105.00 
+20		WingMan Lite 	"ergonomic analogue, 2 button joystick"	Logitech	LOG3105	 $49.00 
+21		WingMan Warrior - 360'' analogue & digita precision	"plus Duke Nukem,Mech Warrior 2, Ult. Doom "	Logitech	LOG2114	 $185.00 
+22						
+23						
+24						
+25						
+26						
+27						
+28						
+29						
+30						
+31						
+32						
+33						

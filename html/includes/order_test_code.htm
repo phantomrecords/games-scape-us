@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Order Window Test Code</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<p><script language="JavaScript"><!--
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion); 
+	if (bName == "Netscape" && bVer >= 3) ver = "n3";
+         	else if (bName == "Netscape" && bVer == 2) ver = "n2";
+		else if (bName == "Microsoft Internet Explorer" && bVer >= 2) ver = "e3";
+
+
+function openOrderTest() {
+	orderwintest = window.open("order_test.htm", "orderpagetest", "toolbar=no,status=yes,scrollbars=no,resizable=no,directories=no,menubar=no,width=370,height=435");
+	if (ver == "n2") {
+		if (navigator.appVersion.indexOf("(X11") != -1 || navigator.appVersion.indexOf("(Mac") != -1) {
+			orderwintest = window.open("order_test.htm", "orderpagetest")  //mac bug fix
+			}
+	}
+	if (orderwintest != null) {
+		if(orderwintest.opener == null) {
+			orderwintest.opener = self;
+			orderwintest.location = "order_test.htm";
+		}
+	}
+}
+// --></script> <a
+href="javascript:openOrderTest()">Open Order Test</a></p>
+</body>
+</html>

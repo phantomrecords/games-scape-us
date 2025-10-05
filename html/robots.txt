@@ -1,0 +1,80 @@
+#  Robot-Manager was used to generate this file.
+#  Copyright (c) 2001-2002 by Sophtware.com, Inc.  All Rights Reserved.
+#  http://www.websitemanagementtools.com/
+
+#  PARTIAL access (Google)
+#  NO access (Google)
+User-agent: Googlebot
+Allow: /
+Allow: /gamelist/
+Allow: /gamelist/options/
+Allow: /games/
+Allow: /article/
+
+Disallow: /_private/
+
+Disallow: /.TemporaryItems/
+
+Disallow: /ads/
+Disallow: /cgi-bin/
+Disallow: /downloads/
+Disallow: /gamelist_includes/
+Disallow: /media/
+Disallow: /message-posts/
+Disallow: /noframes/
+Disallow: /ordering/
+Disallow: /other/
+Disallow: /phantom-misplaced/
+Disallow: /Scripts/
+
+
+#  PARTIAL access (Google Image)
+#  NO access (Google Image)
+User-agent: Googlebot-Image
+Allow: /
+Allow: /gamelist/
+Allow: /gamelist/options/
+Allow: /games/
+Allow: /article/
+
+Disallow: /_private/
+
+Disallow: /.TemporaryItems/
+
+Disallow: /ads/
+Disallow: /cgi-bin/
+Disallow: /downloads/
+Disallow: /gamelist_includes/
+Disallow: /media/
+Disallow: /message-posts/
+Disallow: /noframes/
+Disallow: /ordering/
+Disallow: /other/
+Disallow: /phantom-misplaced/
+Disallow: /Scripts/
+
+
+#  PARTIAL access (All Spiders)
+#  NO access (All Spiders)
+User-agent: *
+Allow: /
+Allow: /gamelist/
+Allow: /gamelist/options/
+Allow: /games/
+Allow: /article/
+
+Disallow: /_private/
+
+Disallow: /.TemporaryItems/
+
+Disallow: /ads/
+Disallow: /cgi-bin/
+Disallow: /downloads/
+Disallow: /gamelist_includes/
+Disallow: /media/
+Disallow: /message-posts/
+Disallow: /noframes/
+Disallow: /ordering/
+Disallow: /other/
+Disallow: /phantom-misplaced/
+Disallow: /Scripts/

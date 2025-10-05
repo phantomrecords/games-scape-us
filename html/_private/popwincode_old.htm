@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Popup Window Java Script</title>
+</head>
+
+<body>
+
+<p><script language="JavaScript"><!--
+
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion); 
+	if (bName == "Netscape" && bVer >= 3) ver = "n3";
+         	else if (bName == "Netscape" && bVer == 2) ver = "n2";
+		else if (bName == "Microsoft Internet Explorer" && bVer >= 2) ver = "e3";
+
+function openNav() {
+	navwin = window.open("navtoolbar_frames.htm", "navbar", "toolbar=no,status=no,scrollbars=yes,resizable=no,directories=no,menubar=no,width=490,height=425");
+	if (ver == "n2") {
+		if (navigator.appVersion.indexOf("(X11") != -1 || navigator.appVersion.indexOf("(Mac") != -1) {
+			orderwin = window.open("navtoolbar_frames.htm", "navbar")  //mac bug fix
+		}
+	}
+	if (navwin != null) {
+		if(navwin.opener == null) {
+			navwin.opener = self;
+			navwin.location = "navtoolbar_frames.htm";
+		}
+	}
+}
+
+function openOrder() {
+	orderwin = window.open("orders.htm", "orderpage", "toolbar=no,status=no,scrollbars=auto,resizable=no,directories=no,menubar=no,width=350,height=425");
+	if (ver == "n2") {
+		if (navigator.appVersion.indexOf("(X11") != -1 || navigator.appVersion.indexOf("(Mac") != -1) {
+			orderwin = window.open("orders.htm", "orderpage")  //mac bug fix
+			}
+	}
+	if (orderwin != null) {
+		if(orderwin.opener == null) {
+			orderwin.opener = self;
+			orderwin.location = "orders.htm";
+		}
+	}
+}
+
+
+function swriter(txt) {
+	if (ver == "n3") {
+		window.status = txt;
+	}
+	else {
+		window.status = txt;
+		setTimeout("erase()",3000);
+	}
+}
+
+function erase() {
+  window.status="";
+}
+
+
+// --></script></p>
+</body>
+</html>
